@@ -9,10 +9,3 @@
 ### Source Code
 
 https://github.com/Sanedrac1/extensions-source
-
-### Report issues
-
-https://github.com/Sanedrac1/extensions-source/issues/new/choose
-
-### Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://Sanedrac1.github.io/extensions/)
