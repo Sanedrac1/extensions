@@ -17079,6 +17079,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TMOHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tmohentai",
+    "apk": "tachiyomi-es.tmohentai-v1.4.10.apk",
+    "lang": "es",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TMOHentai",
+        "lang": "es",
+        "id": "8385948079634749158",
+        "baseUrl": "https://tmohentai.app",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Toon-es",
     "pkg": "eu.kanade.tachiyomi.extension.es.toones",
     "apk": "tachiyomi-es.toones-v1.4.47.apk",
