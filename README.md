@@ -1,6 +1,6 @@
 # Sanedrac1 Extensions
 ## Usage
-* Copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+* Copy & paste the following URL: https://raw.githubusercontent.com/Sanedrac1/extensions/repo/index.min.json
 
 ### Source Code
 
