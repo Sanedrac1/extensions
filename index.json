@@ -17009,10 +17009,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.63.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.57.apk",
     "lang": "es",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 1,
     "sources": [
       {
