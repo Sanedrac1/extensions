@@ -17081,10 +17081,10 @@
   {
     "name": "Tachiyomi: TMOHentai",
     "pkg": "eu.kanade.tachiyomi.extension.es.tmohentai",
-    "apk": "tachiyomi-es.tmohentai-v1.4.10.apk",
+    "apk": "tachiyomi-es.tmohentai-v1.4.11.apk",
     "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
