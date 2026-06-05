@@ -15839,17 +15839,17 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.30.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://viralikigai.melauroral.com",
+        "baseUrl": "https://zonaikigai.gamesview.shop",
         "versionId": 1
       }
     ]
@@ -22083,21 +22083,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf458.com",
+        "baseUrl": "https://wfwf461.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf458.com",
+        "baseUrl": "https://wfwf461.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf458.com",
+        "baseUrl": "https://wfwf461.com",
         "versionId": 1
       }
     ]
