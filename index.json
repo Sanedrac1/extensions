@@ -16559,10 +16559,10 @@
   {
     "name": "Tachiyomi: NexusScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
-    "apk": "tachiyomi-es.nexusscanlation-v1.4.4.apk",
+    "apk": "tachiyomi-es.nexusscanlation-v1.4.2.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
