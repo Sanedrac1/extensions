@@ -19420,13 +19420,13 @@
         "name": "OrckuMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.orckumangas",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/0953234-1/tachiyomi-es.orckumangas-v1.4.3.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a667958/tachiyomi-es.orckumangas-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/0953234-1/tachiyomi-es.orckumangas-v1.4.3.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a667958/tachiyomi-es.orckumangas-v1.4.4.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
