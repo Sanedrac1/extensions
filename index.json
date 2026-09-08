@@ -20493,13 +20493,13 @@
         "name": "Falco Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.tenkaiscan",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/b8aa5bb-1/tachiyomi-es.tenkaiscan-v1.4.40.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/0d6c225/tachiyomi-es.tenkaiscan-v1.4.41.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/tenkaiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/b8aa5bb-1/tachiyomi-es.tenkaiscan-v1.4.40.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/0d6c225/tachiyomi-es.tenkaiscan-v1.4.41.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104040",
-        "versionName": "1.4.40",
+        "versionCode": "104041",
+        "versionName": "1.4.41",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

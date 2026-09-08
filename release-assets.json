@@ -7051,12 +7051,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.tenkaiscan": {
     "apk": {
-      "name": "tachiyomi-es.tenkaiscan-v1.4.40.apk",
-      "sha256": "bb1598eefc9ad871b2b49129d7eb30370660c0115fb92c8b9ee58a0930004ebc"
+      "name": "tachiyomi-es.tenkaiscan-v1.4.41.apk",
+      "sha256": "f849d3705d8eb8217558ac72eb3ea13cd4e290d95803c06bdd6b516b9becfefc"
     },
     "jar": {
-      "name": "tachiyomi-es.tenkaiscan-v1.4.40.jar",
-      "sha256": "1c773eebcfa6e4d61bba6973ec5b13bfb9300eb61a719b071eb2a3f5d8231402"
+      "name": "tachiyomi-es.tenkaiscan-v1.4.41.jar",
+      "sha256": "6696e0766e89eed1cb137c5b790f58f4a0eedecf2c7fff9fb328924b8935798d"
     }
   },
   "eu.kanade.tachiyomi.extension.es.tmohentai": {
