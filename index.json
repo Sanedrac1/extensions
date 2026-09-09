@@ -19254,13 +19254,13 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/2bf2e4d/tachiyomi-es.ikigaimangas-v1.4.36.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/2700550/tachiyomi-es.ikigaimangas-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/2bf2e4d/tachiyomi-es.ikigaimangas-v1.4.36.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/2700550/tachiyomi-es.ikigaimangas-v1.4.37.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "versionCode": "104037",
+        "versionName": "1.4.37",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
