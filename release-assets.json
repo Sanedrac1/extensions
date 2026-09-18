@@ -7052,11 +7052,11 @@
   "eu.kanade.tachiyomi.extension.es.tenkaiscan": {
     "apk": {
       "name": "tachiyomi-es.tenkaiscan-v1.4.42.apk",
-      "sha256": "c9a5e30faef6b79632802b45ab57e93bcf729facc123d8c55673420b5217d9e5"
+      "sha256": "9a9e626c2c88b776786c1c3e909ddc0b72b5e1242959ff0b3237a376568890d6"
     },
     "jar": {
       "name": "tachiyomi-es.tenkaiscan-v1.4.42.jar",
-      "sha256": "5111ef32b4acedf8f3fa34f8e747f70f507372015be7eda1d917196b0bc18a01"
+      "sha256": "6dc1e576c1352dd2cb30c54dea96731e2071c070612844e596d6a92bff9f1b3b"
     }
   },
   "eu.kanade.tachiyomi.extension.es.tmohentai": {
