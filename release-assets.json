@@ -6461,12 +6461,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.ikigaimangas": {
     "apk": {
-      "name": "tachiyomi-es.ikigaimangas-v1.4.39.apk",
-      "sha256": "aad669d4b8738c6e0b3e81c5945dd03652f760992e57f0a09ae2d49b17c20d2e"
+      "name": "tachiyomi-es.ikigaimangas-v1.6.40.apk",
+      "sha256": "368a1074d06a36e09dc7671998d3791a5e15502c4d7a35d77056cb6b72ced5b8"
     },
     "jar": {
-      "name": "tachiyomi-es.ikigaimangas-v1.4.39.jar",
-      "sha256": "af508b9f1d6997b6304e5992aee25ff8c68a46c0ce5d5cac556c3abd958fa9c9"
+      "name": "tachiyomi-es.ikigaimangas-v1.6.40.jar",
+      "sha256": "6f3170ad54451521134722eb2a1d7feef4f4201de20f8434f2064bce4c8e7f44"
     }
   },
   "eu.kanade.tachiyomi.extension.es.ikuhentai": {
