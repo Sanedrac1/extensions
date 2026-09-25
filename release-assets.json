@@ -6741,12 +6741,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.manhwalatino": {
     "apk": {
-      "name": "tachiyomi-es.manhwalatino-v1.4.63.apk",
-      "sha256": "91b0778642d87003f8710acac1f0f16bf71bef98fafeb1b1c176cbde61a5d94c"
+      "name": "tachiyomi-es.manhwalatino-v1.6.67.apk",
+      "sha256": "6ebd84f68e08e3a121ae6acc5a36bca0f337356f7a3312c83daf9defc7ce9564"
     },
     "jar": {
-      "name": "tachiyomi-es.manhwalatino-v1.4.63.jar",
-      "sha256": "423269d15c4e0da3713d9d7e78713f3d585bdf060f809151f9f6a1484b94cd11"
+      "name": "tachiyomi-es.manhwalatino-v1.6.67.jar",
+      "sha256": "d1a364a1189c616d244326cf3923076ac27d5ef3499d2e42f8052902ed298806"
     }
   },
   "eu.kanade.tachiyomi.extension.es.manhwaonline": {

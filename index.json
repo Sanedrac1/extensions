@@ -19842,20 +19842,24 @@
         "name": "Manhwa-Latino",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwalatino",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/b8aa5bb-1/tachiyomi-es.manhwalatino-v1.4.63.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/6f60133/tachiyomi-es.manhwalatino-v1.6.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/manhwalatino/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/b8aa5bb-1/tachiyomi-es.manhwalatino-v1.4.63.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/6f60133/tachiyomi-es.manhwalatino-v1.6.67.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104063",
-        "versionName": "1.4.63",
+        "extensionLib": "1.6",
+        "versionCode": "106067",
+        "versionName": "1.6.67",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3548601371328353875",
             "name": "Manhwa-Latino",
             "language": "es",
-            "homeUrl": "https://manhwa-latino.com"
+            "homeUrl": "https://manhwa-latino.com",
+            "mirrorUrls": [
+              "https://manhwa-latino.com",
+              "https://manhwa-es.com"
+            ]
           }
         ]
       },
