@@ -6559,6 +6559,16 @@
       "sha256": "ddcf73b0912efc88b7698e38337e5173691eefe458af6d71871f3e692bb53cb2"
     }
   },
+  "eu.kanade.tachiyomi.extension.es.kotoritranslations": {
+    "apk": {
+      "name": "tachiyomi-es.kotoritranslations-v1.6.1.apk",
+      "sha256": "b05bf5cc70e120a92defc04a78e85f497efe3684c565bd662e34b5f8b4883086"
+    },
+    "jar": {
+      "name": "tachiyomi-es.kotoritranslations-v1.6.1.jar",
+      "sha256": "f4980230d0935aa5029b89bf652ef1d9d8b5048b5f56c1533ece87b922c0f0a6"
+    }
+  },
   "eu.kanade.tachiyomi.extension.es.lectorasteria": {
     "apk": {
       "name": "tachiyomi-es.lectorasteria-v1.4.4.apk",

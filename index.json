@@ -19461,6 +19461,27 @@
         ]
       },
       {
+        "name": "Kotori Translations",
+        "packageName": "eu.kanade.tachiyomi.extension.es.kotoritranslations",
+        "resources": {
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/fbdf492/tachiyomi-es.kotoritranslations-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/fbdf492/tachiyomi-es.kotoritranslations-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "9146810381968446530",
+            "name": "Kotori Translations",
+            "language": "es",
+            "homeUrl": "https://kotoritranslations.online"
+          }
+        ]
+      },
+      {
         "name": "Lector Asteria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectorasteria",
         "resources": {
