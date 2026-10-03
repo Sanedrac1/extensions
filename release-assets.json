@@ -6931,12 +6931,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.orckumangas": {
     "apk": {
-      "name": "tachiyomi-es.orckumangas-v1.4.6.apk",
-      "sha256": "48273df270f8024b982329196f189c90221fae5495e7ed6c2fcd66f9b247e1d0"
+      "name": "tachiyomi-es.orckumangas-v1.6.7.apk",
+      "sha256": "da4e9e9336ed66a1b48daee415b3b60bb6ceb931da3512d1e9b410e8f39c78b3"
     },
     "jar": {
-      "name": "tachiyomi-es.orckumangas-v1.4.6.jar",
-      "sha256": "99169918e174d53136f8e6690fcdd1dd73bd08e163c935e69cfe8fd066b9e784"
+      "name": "tachiyomi-es.orckumangas-v1.6.7.jar",
+      "sha256": "5647ec12f32c53e25ad679ad23e4185dbe2150847cbebf53f14d86475fe07adc"
     }
   },
   "eu.kanade.tachiyomi.extension.es.platinumlilyscan": {
