@@ -6581,12 +6581,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.lectorhentai": {
     "apk": {
-      "name": "tachiyomi-es.lectorhentai-v1.6.1.apk",
-      "sha256": "f6e693792bbb794447d87b42ffdf57564d81cda8f08e450462028c5f00cb5dad"
+      "name": "tachiyomi-es.lectorhentai-v1.6.2.apk",
+      "sha256": "dfc5a72bc8138e2ad9fa122609d67131cf5e81da4f809b12ca4949825029a947"
     },
     "jar": {
-      "name": "tachiyomi-es.lectorhentai-v1.6.1.jar",
-      "sha256": "20e8bd0a2d616af4962bb712660f61b207461b65329eead872c85a92e71092c4"
+      "name": "tachiyomi-es.lectorhentai-v1.6.2.jar",
+      "sha256": "7a6f7d4a2a4bd21d23064f83ec25a67be5c1115ad8b4c81a1e30243f9a1ae143"
     }
   },
   "eu.kanade.tachiyomi.extension.es.lectorjpg": {
