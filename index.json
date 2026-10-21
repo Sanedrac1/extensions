@@ -20224,13 +20224,13 @@
         "name": "ONF MANGAS",
         "packageName": "eu.kanade.tachiyomi.extension.es.onfmangas",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/2185db0/tachiyomi-es.onfmangas-v1.4.7.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/b003b42/tachiyomi-es.onfmangas-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/onfmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/2185db0/tachiyomi-es.onfmangas-v1.4.7.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/b003b42/tachiyomi-es.onfmangas-v1.6.8.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
