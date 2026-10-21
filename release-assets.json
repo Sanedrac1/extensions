@@ -6921,12 +6921,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.onfmangas": {
     "apk": {
-      "name": "tachiyomi-es.onfmangas-v1.4.6.apk",
-      "sha256": "33f9ef126864a97d8cadaafacf5e2b71aac665bfd9aa65f77d1e246420c6878e"
+      "name": "tachiyomi-es.onfmangas-v1.4.7.apk",
+      "sha256": "5b8c052e2b961060540bba224748a114d611bc2453f0c4f966a96206b7df2e29"
     },
     "jar": {
-      "name": "tachiyomi-es.onfmangas-v1.4.6.jar",
-      "sha256": "60c8072cabdbdab291fa4b5d3aae8c55f40364ca30284858691cc47bf74b672b"
+      "name": "tachiyomi-es.onfmangas-v1.4.7.jar",
+      "sha256": "4b8d418b56ab63d8f9e8440fc8d8a76ec685eba640c9b452fc6c8f28a61f8af9"
     }
   },
   "eu.kanade.tachiyomi.extension.es.orckumangas": {
