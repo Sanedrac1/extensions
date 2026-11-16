@@ -22206,13 +22206,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-1/tachiyomi-es.catharsisworld-v1.6.7.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.catharsisworld-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-1/tachiyomi-es.catharsisworld-v1.6.7.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.catharsisworld-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24406,13 +24406,13 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-2/tachiyomi-es.templescanesp-v1.6.75.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.templescanesp-v1.6.77.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-2/tachiyomi-es.templescanesp-v1.6.75.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.templescanesp-v1.6.77.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106075",
-        "versionName": "1.6.75",
+        "versionCode": "106077",
+        "versionName": "1.6.77",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
