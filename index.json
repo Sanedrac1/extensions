@@ -24406,13 +24406,13 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.templescanesp-v1.6.77.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a0ad147/tachiyomi-es.templescanesp-v1.6.80.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.templescanesp-v1.6.77.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a0ad147/tachiyomi-es.templescanesp-v1.6.80.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106077",
-        "versionName": "1.6.77",
+        "versionCode": "106080",
+        "versionName": "1.6.80",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
