@@ -1,7 +1,7 @@
 {
   "name": "Sanedrac1",
   "badgeLabel": "SAN",
-  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "signingKey": "f5be5edf2158c479fdb9b4de89ff5d742d72eec885ee2cbf5ffe03d21dcca368",
   "contact": {
     "website": "https://github.com/Sanedrac1/extensions"
   },
@@ -10936,9 +10936,9 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-0/tachiyomi-ar.procomic-v1.6.10.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-ar.procomic-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-0/tachiyomi-ar.procomic-v1.6.10.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-ar.procomic-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -20567,9 +20567,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-1/tachiyomi-en.templescan-v1.6.69.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-en.templescan-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-1/tachiyomi-en.templescan-v1.6.69.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-en.templescan-v1.6.69.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106069",
@@ -22206,9 +22206,9 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.catharsisworld-v1.6.9.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.catharsisworld-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/f62f884/tachiyomi-es.catharsisworld-v1.6.9.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.catharsisworld-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -24406,9 +24406,9 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/b458f53/tachiyomi-es.templescanesp-v1.6.94.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.templescanesp-v1.6.94.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/b458f53/tachiyomi-es.templescanesp-v1.6.94.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.templescanesp-v1.6.94.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106094",
@@ -24448,13 +24448,13 @@
         "name": "TMOHentai",
         "packageName": "eu.kanade.tachiyomi.extension.es.tmohentai",
         "resources": {
-          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-2/tachiyomi-es.tmohentai-v1.6.12.apk",
+          "apkUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.tmohentai-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Sanedrac1/extensions-source@main/src/es/tmohentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/a96ab77-2/tachiyomi-es.tmohentai-v1.6.12.jar"
+          "jarUrl": "https://github.com/Sanedrac1/extensions/releases/download/d519dbd/tachiyomi-es.tmohentai-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
